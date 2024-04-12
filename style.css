@@ -1,0 +1,61 @@
+h1 {
+    color: rgb(42, 1, 38);
+  }
+  h2 {
+    color: rgb(56, 1, 29);
+  }
+
+.body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
+    margin: 0;
+    color: #f6a2dd;
+    padding-top: 70px;
+}
+.nav {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        background-color: #fff;
+        box-shadow: 0 0 5px rgba(77, 1, 48, 0.1);
+}
+.menu-item {
+    text-decoration: none;
+    color: #ab0181;
+    padding: 10px;
+    display: inline-block;
+}
+.header {
+    background-color: #333;
+    color: #f94dc6;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+section {
+    padding: 20px;
+    border: 1px solid #560241;
+    margin-bottom: 20px;
+}
+#acerca-de-mi {
+    text-align: justify;
+}
+#habilidades ul {
+    list-style: none;
+    padding: 0;
+}
+#habilidades ul li {
+    display: inline-block;
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+#experiencia ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+} 
+  #experiencia ul li {
+    margin-bottom: 10px;
+}
